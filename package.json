@@ -1,6 +1,0 @@
-{
-  "type": "module",
-  "dependencies": {
-    "@e2b/desktop": "^1.9.2"
-  }
-}
